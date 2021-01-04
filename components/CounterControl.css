@@ -1,0 +1,9 @@
+.CounterControl {
+  width: 150px;
+  padding: 20px;
+  margin: 16px;
+  border: 1px solid gray;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+}
